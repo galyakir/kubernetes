@@ -6,7 +6,7 @@ metadata:
 data:
   COOKIE_ENCRYPT_PWD: "superAwesomePasswordStringThatIsAtLeast32CharactersLong!"
   HOST: "0.0.0.0"
-  HOST_URL: "weight-app-service"
+  HOST_URL: "http://a2c8bdb58a3fe4d04ba943275dafa5b2-1844591682.us-east-1.elb.amazonaws.com:80"
   NODE_ENV: "development"
   PGDATABASE: "postgres"
   PGPORT: "5432"
